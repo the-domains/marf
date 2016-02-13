@@ -2,6 +2,7 @@ name: Marf
 favicon: null
 layout_spectrum: 0.18737103953026235
 typography_spectrum: 0.19525
+title: Made for the internets
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#fdfdfd'
+    - '#221f18'
+    - '#9a6f45'
+    - '#ddc293'
+    - '#82abba'
   brandStrength: 1
   lightness: 0.9154653691221029
   saturation: 0.625
