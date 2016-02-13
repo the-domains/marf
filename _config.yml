@@ -1,0 +1,28 @@
+name: Marf
+favicon: null
+layout_spectrum: 0.18737103953026235
+typography_spectrum: 0.7044339061249048
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9553920198231936
+  lightness: 0.9154653691221029
+  saturation: 0.3034083566162735
+  rhythmicContrast: 0.38873974746093154
+purpose: []
