@@ -1,7 +1,7 @@
 name: Marf
 favicon: null
 layout_spectrum: 0.18737103953026235
-typography_spectrum: 0.7044339061249048
+typography_spectrum: 0.19525
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#3B28CC'
   brandStrength: 1
   lightness: 0.9154653691221029
-  saturation: 0.3034083566162735
+  saturation: 0.625
   rhythmicContrast: 0.38873974746093154
 purpose: []
